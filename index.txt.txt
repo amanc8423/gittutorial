@@ -1,7 +1,8 @@
 1. git status - show status
 2. git init - to intilize git our repository
-3. git add .  - to add all files in git
+3. git add .  - to add all files in staging area
 4. git commit -m "message"  - method to commit
 5. git log - who made what changes
 6. git config --global user.name
 7. git config --global user.email
+8. we have to apply option 3 and  4 for applying changes
