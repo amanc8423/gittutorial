@@ -2,3 +2,6 @@
 2. git init - to intilize git our repository
 3. git add .  - to add all files in git
 4. git commit -m "message"  - method to commit
+5. git log - who made what changes
+6. git config --global user.name
+7. git config --global user.email
