@@ -5,6 +5,8 @@
 5. git log - who made what changes
 6. git config --global user.name
 7. git config --global user.email
-8. we have to apply option 3 and  4 for applying changes
+8. we have to apply option 3 and  4 for applying changes and then 10 make it visible on github
 9. git remote add origin (git@github.com:amanc8423/gittutorial.git)  
-10. git push -u origin master
+10. git push -u origin master   // to make changes visible on github website
+11. git pyll origin master // will show all changes amde on file
+ 
